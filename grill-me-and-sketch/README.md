@@ -13,6 +13,16 @@
 <a href="https://www.youtube.com/watch?v=GZM7r8wbI6M"><img src="https://img.youtube.com/vi/GZM7r8wbI6M/maxresdefault.jpg" width="320" alt="See the skill in action"></a>
 ---
 
+## Install
+
+```bash
+npx skills add abd-works/cdd-starter
+```
+
+Installs into `.cursor/skills/` for Cursor, or pass `-a <agent>` to target another agent.
+
+---
+
 ## When to use it
 
 - Starting a new feature or system from scratch
