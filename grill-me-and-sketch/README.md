@@ -10,7 +10,7 @@
 - **Fundamental gaps surface fast.** A scaffold across all four perspectives makes contradictions obvious. If the stories don't match the modules, you know before writing a line.
 - **Scales to teams and larger problems.** Sketches are shareable artifacts, not just chat history. They give contributors a common reference point to reason from and challenge.
 
-[![See the skill in action](https://img.youtube.com/vi/GZM7r8wbI6M/maxresdefault.jpg)](https://www.youtube.com/watch?v=GZM7r8wbI6M)
+<a href="https://www.youtube.com/watch?v=GZM7r8wbI6M"><img src="https://img.youtube.com/vi/GZM7r8wbI6M/maxresdefault.jpg" width="320" alt="See the skill in action"></a>
 ---
 
 ## When to use it
