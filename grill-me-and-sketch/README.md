@@ -1,5 +1,7 @@
 # grill-me-and-sketch
 
+> [See the skill in action →](https://www.youtube.com/watch?v=GZM7r8wbI6M)
+
 **The problem.** Agents jump to answers too fast. You describe something loosely, the agent fills in the gaps with its own assumptions, and by the time you see the code you're realize the AI was misaligned on fundamentals — structure, scope, intent. Matt Pocock's [grill-with-docs](https://github.com/mattpocock/skills/blob/main/skills/engineering/grill-with-docs/SKILL.md) skill is a huge helps — but freeform questions and answers in text often don't provide the right level of abstractions to reason deeply about your problem or solution. You oten want to *see* what the agent thinks it's going to build.
 
 **Why grill-me-and-sketch?** AI grills you, then confirms it's understanding by sketching one or models representing a solution perspective, leading to an increase in *understanding* between human and agent. 
