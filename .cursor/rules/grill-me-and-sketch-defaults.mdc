@@ -1,0 +1,15 @@
+---
+description: Default perspective set for grill-me-and-sketch sessions in this project
+alwaysApply: true
+---
+
+# Grill-Me-and-Sketch Defaults
+
+When running the `grill-me-and-sketch` skill in this project, all four perspectives are active by default:
+
+- **Stories** — actor sequences and user workflows
+- **Modules** — system boundaries, services, and connections
+- **BDD** — real-world situations the logic must handle
+- **UX** — screens, navigation, and user interaction
+
+Pre-select all four in the `AskQuestion` confirmation step (Step 0). The user may deselect any they don't need for a given session.
